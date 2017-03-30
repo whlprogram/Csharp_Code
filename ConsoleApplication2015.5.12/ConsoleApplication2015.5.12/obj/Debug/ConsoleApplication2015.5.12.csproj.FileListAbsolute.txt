@@ -1,0 +1,6 @@
+D:\c#自写代码\ConsoleApplication2015.5.12\ConsoleApplication2015.5.12\bin\Debug\ConsoleApplication2015.5.12.exe.config
+D:\c#自写代码\ConsoleApplication2015.5.12\ConsoleApplication2015.5.12\obj\Debug\ConsoleApplication2015.5.12.csprojResolveAssemblyReference.cache
+D:\c#自写代码\ConsoleApplication2015.5.12\ConsoleApplication2015.5.12\bin\Debug\ConsoleApplication2015.5.12.exe
+D:\c#自写代码\ConsoleApplication2015.5.12\ConsoleApplication2015.5.12\bin\Debug\ConsoleApplication2015.5.12.pdb
+D:\c#自写代码\ConsoleApplication2015.5.12\ConsoleApplication2015.5.12\obj\Debug\ConsoleApplication2015.5.12.exe
+D:\c#自写代码\ConsoleApplication2015.5.12\ConsoleApplication2015.5.12\obj\Debug\ConsoleApplication2015.5.12.pdb

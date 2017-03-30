@@ -1,0 +1,9 @@
+C:\Users\whll\Desktop\ConsoleApplication1218\ConsoleApplication1218\bin\Debug\ConsoleApplication1218.exe
+C:\Users\whll\Desktop\ConsoleApplication1218\ConsoleApplication1218\bin\Debug\ConsoleApplication1218.pdb
+C:\Users\whll\Desktop\ConsoleApplication1218\ConsoleApplication1218\obj\x86\Debug\ConsoleApplication1218.exe
+C:\Users\whll\Desktop\ConsoleApplication1218\ConsoleApplication1218\obj\x86\Debug\ConsoleApplication1218.pdb
+D:\c#自写代码\ConsoleApplication1218\ConsoleApplication1218\obj\x86\Debug\ConsoleApplication1218.exe
+D:\c#自写代码\ConsoleApplication1218\ConsoleApplication1218\obj\x86\Debug\ConsoleApplication1218.pdb
+D:\c#自写代码\ConsoleApplication1218\ConsoleApplication1218\bin\Debug\ConsoleApplication1218.exe
+D:\c#自写代码\ConsoleApplication1218\ConsoleApplication1218\bin\Debug\ConsoleApplication1218.pdb
+D:\c#自写代码\ConsoleApplication1218\ConsoleApplication1218\obj\x86\Debug\ConsoleApplication1218.csprojResolveAssemblyReference.cache
